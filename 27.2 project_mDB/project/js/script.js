@@ -35,3 +35,5 @@ genreOfFilm[0].textContent = "ДРАМА";
 let abc = document.querySelectorAll("div.promo__bg");
 abc[0].style.backgroundImage = 'url("img/bg.jpg")';
 
+
+
